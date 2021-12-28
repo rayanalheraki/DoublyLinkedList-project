@@ -1,0 +1,5 @@
+E(1000#Mehmet Can)
+E(1#aslan can)
+E(2#ali Can)
+E(1#ahmet Can)
+S(15)
